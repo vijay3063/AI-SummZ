@@ -3,8 +3,8 @@
 This is a GitHub project for an AI summZ, built using **Vite**, **React**, **TailwindCSS**, and **Redux Toolkit**.  
 The AI summZ can generate summaries of articles based on the provided link.
 
-## Deployment Link 
-[Click Here]("#")
+## 🚀 Deployment
+[Click Here](https://ai-summ-z.vercel.app/)
 
 ## Features
 

@@ -47,7 +47,8 @@ npm run dev
 
 ## Usage
 Once the AI SummZ is running locally, follow these steps to generate summaries:
-<img width="1919" height="1079" alt="Screenshot 2025-08-28 224727" src="https://github.com/user-attachments/assets/7284edc8-06b2-4d74-8e0b-304247291b6e" />
+<img width="1898" height="1079" alt="image" src="https://github.com/user-attachments/assets/ffd85c84-1f49-41fd-ab90-cde9c128deeb" />
+
 
 Enter the URL of the article you want to summarize in the input field.
 Click the Submit Logo or Press Enter.

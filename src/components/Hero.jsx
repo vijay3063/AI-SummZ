@@ -9,7 +9,7 @@ const Hero = () => {
 
         <button
           type="button"
-          onClick={() => window.open("#")}
+          onClick={() => window.open("https://github.com/vijay3063/AI-SummZ")}
           className="px-4 py-2 rounded-lg bg-primary text-white font-medium shadow-md hover:bg-primary-dark transition"
         >
           GitHub
